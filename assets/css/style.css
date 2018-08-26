@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+
+.header-bar {
+	width: 100%;
+	background-color: blue;
+	border:thin solid red;
+}
+
+.header-image {
+	width: 200px;
+	height: auto;
+}
